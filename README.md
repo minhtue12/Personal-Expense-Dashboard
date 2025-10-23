@@ -1,5 +1,6 @@
 # 💰 Personal Expense Dashboard (Excel)
-
+## 📸 Preview Dashboard
+![Dashboard Screenshot](./image.png)
 ## 🎯 Mục tiêu dự án
 Phân tích và theo dõi **chi tiêu cá nhân** trong giai đoạn **2018–2019**, nhằm:
 
