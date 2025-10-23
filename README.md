@@ -89,5 +89,3 @@ Dashboard giúp theo dõi **chi tiêu cá nhân minh bạch, trực quan**, dễ
 - `README.md` — mô tả chi tiết dự án 
 ---
 
-📊 **Tác giả:** *BoraDA*  
-📅 **Năm thực hiện:** 2025
